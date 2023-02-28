@@ -1,6 +1,5 @@
 # 🤓 About Me
-I am Online Media Student studying in Furtwangen. Always willing to learn something new.<br><br>🔎At the moment I am searching for a company with interesting topics to write my bachelor thesis at.
-
+I am Online Media Student studying in Furtwangen. Always willing to learn something new.<br><br>🔎At the moment I am searching for a student job at a company with interesting topics.
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Flexi#0043) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felix-lütte) 
 
