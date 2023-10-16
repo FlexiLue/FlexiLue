@@ -1,5 +1,5 @@
 # 🤓 About Me
-I am Online Media Student studying in Furtwangen. Always willing to learn something new.<br><br>🔎At the moment I am searching for a student job at a company with interesting topics.
+I am Online Media Student studying in Furtwangen. Always willing to learn something new.<br><br>🔎At the moment I am looking for a job as a Fullstack Webdeveloper in a company with interesting topics in order to gain knowledge and experience.
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Flexi#0043) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felix-lütte) 
 
